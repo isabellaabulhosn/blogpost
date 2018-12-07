@@ -13,18 +13,18 @@ library("[package]")
 
 #### * dplyr 
 
-#### * tidyr 
+#### -tidyr 
 
-#### * stringr 
+#### -stringr 
 
-#### * lubridate 
+#### -lubridate 
 
 ### Data Visualization 
 
-#### * ggplot2 
+#### -ggplot2 
 
 ### Data Presentation 
 
-#### * shiny 
+#### -shiny 
 
 ### Other Libraries I Found Useful 
