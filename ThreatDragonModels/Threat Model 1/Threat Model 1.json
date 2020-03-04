@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat Model 1",
+    "description": "practicing a threat model of my blog post",
+    "owner": "Izzy"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Izzy"
+  }
+}
